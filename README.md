@@ -40,3 +40,11 @@ php artisan serve
 # run vuejs app
 
 npm run watch
+
+# open below url in the browser
+
+http://localhost:8000/
+
+# run test
+
+php artisan test
