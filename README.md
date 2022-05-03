@@ -15,6 +15,16 @@ DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
 
+# In this project we use laravel as Backend
+
+# and Vue as Frontend
+
+# there ar 2 option to perform solution
+
+# 01- using Mysql view and Rank function to optimize the solution ( default )
+
+# 02- fetch ids and score, then play with them ( commented code )
+
 # run migration
 
 php artisan migrate
