@@ -19,7 +19,7 @@ DB_PASSWORD=
 
 # and Vue as Frontend
 
-# there ar 2 option to perform solution
+# there are 2 options to perform solution
 
 # 01- using Mysql view and Rank function to optimize the solution ( default )
 
