@@ -33,13 +33,13 @@ php artisan migrate
 
 php artisan db:seed
 
+# compile the assets
+
+npm run dev
+
 # run laravel project
 
 php artisan serve
-
-# run vuejs app
-
-npm run watch
 
 # open below url in the browser
 
